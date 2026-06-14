@@ -23,9 +23,6 @@ Developed an interactive geospatial analytics platform that visualizes urban dat
 - Spatial hotspot analysis
 - Responsive user interface
 
-## Screenshots
-
-![Homepage](screenshots/homepage.png)
 
 ## Run Locally
 
