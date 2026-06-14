@@ -7,30 +7,27 @@
 Developed an interactive geospatial analytics platform that visualizes urban datasets from multiple U.S. cities including Chicago crime data, NYC TreesCount 2015, Grand Rapids traffic crashes, and San Francisco bicycle parking data.
 
 ## Technologies Used
-
 - Remix
 - React
 - TypeScript
 - Deck.gl
-- Mapbox GL
+- Mapbox
+- Material UI
+- Recharts
 - Vercel
 
-## Key Features
+## Features
+- Interactive city-level maps
+- Hexagonal aggregation visualization
+- Geospatial hotspot analysis
+- Multi-city data exploration
+- Interactive insights dashboard
 
-- Interactive geospatial maps
-- Hexagonal aggregation (Hexbin)
-- Multi-city dataset exploration
-- Spatial hotspot analysis
-- Responsive user interface
+## Datasets
+- Chicago Crime Data
+- NYC TreesCount 2015
+- Grand Rapids Traffic Crashes
+- San Francisco Bicycle Parking
 
-
-## Run Locally
-
-```bash
-npm install
-npm run dev
-```
-
-## Live Application
-
-https://remix-contacts-wine.vercel.app/
+## Author
+Vandana Kandagatla
